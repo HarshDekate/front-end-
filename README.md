@@ -89,23 +89,6 @@ landing-page/
    - Ensure the landing page follows WCAG guidelines.
    - Use ARIA roles and attributes where necessary.
 
-### Submission
-
-1. Commit your code to the repository:
-   ```bash
-   git add .
-   git commit -m "Initial commit"
-   ```
-
-2. Push the code to GitHub:
-   ```bash
-   git push origin main
-   ```
-
-3. Share the GitHub repository link:
-   - Send the link to `pratikdhere2018@gmail.com`.
-
-#
 
 We appreciate your dedication to this internal project and look forward to seeing your work. Thank you for your commitment.
 
